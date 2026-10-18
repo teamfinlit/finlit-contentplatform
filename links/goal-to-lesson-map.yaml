@@ -1,0 +1,334 @@
+﻿# Goal-to-Lesson Mapping
+# Maps each GoalID to its recommended learning module.
+# lesson_file is populated when the lesson has been loaded into learning/
+
+mappings:
+  MW01:
+    goal_title: "Understand What Money Is"
+    life_stage: "5–7 — Early Explorer"
+    sub_domain: Financial Literacy
+    recommended_module: "The Story of Money & Value (Coins, bills, price tags, trade vs. buying, finite value)"
+    lesson_file: null  # update when lesson is loaded
+
+  MW02:
+    goal_title: "Start a Saving Habit"
+    life_stage: "5–7 — Early Explorer"
+    sub_domain: Saving
+    recommended_module: "Piggy Banks & Patience (Saving jars, delayed gratification, watching money accumulate)"
+    lesson_file: null  # update when lesson is loaded
+
+  MW03:
+    goal_title: "Learn Needs vs Wants"
+    life_stage: "5–7 — Early Explorer"
+    sub_domain: Spending
+    recommended_module: "Must-Haves vs Nice-to-Haves (Basic survival needs vs optional wants, prioritizing)"
+    lesson_file: null  # update when lesson is loaded
+
+  MW04:
+    goal_title: "Understand How People Earn Money"
+    life_stage: "5–7 — Early Explorer"
+    sub_domain: Earning
+    recommended_module: "Helping Others to Earn (Linking effort and service to earning, community professions)"
+    lesson_file: null  # update when lesson is loaded
+
+  MW05:
+    goal_title: "Discover the Idea of Business"
+    life_stage: "5–7 — Early Explorer"
+    sub_domain: Entrepreneurship
+    recommended_module: "The Little Creator (Buyers, sellers, making useful items, fair trades)"
+    lesson_file: null  # update when lesson is loaded
+
+  MW06:
+    goal_title: "Learn to Take Care of Things"
+    life_stage: "5–7 — Early Explorer"
+    sub_domain: Financial Discipline
+    recommended_module: "Care, Repair, and Respect (Belongings preservation, replacement costs, respecting property)"
+    lesson_file: null  # update when lesson is loaded
+
+  MW07:
+    goal_title: "Learn That Experiences Can Be Valuable"
+    life_stage: "5–7 — Early Explorer"
+    sub_domain: Lifestyle & Experiences
+    recommended_module: "Memories Over Things (Intangible joy, free community/nature activities, savoring moments)"
+    lesson_file: null  # update when lesson is loaded
+
+  MW08:
+    goal_title: "Begin Understanding Responsibility"
+    life_stage: "5–7 — Early Explorer"
+    sub_domain: Financial Independence
+    recommended_module: "My Actions, My Impact (Accountability, contributing to family team, choices and consequences)"
+    lesson_file: null  # update when lesson is loaded
+
+  MW09:
+    goal_title: "Build Strong Money Basics"
+    life_stage: "8–10 — Young Learner"
+    sub_domain: Financial Literacy
+    recommended_module: "Everyday Financial Math (Calculating change, discounts, unit prices, cash vs digital)"
+    lesson_file: null  # update when lesson is loaded
+
+  MW10:
+    goal_title: "Build a Regular Saving Habit"
+    life_stage: "8–10 — Young Learner"
+    sub_domain: Saving
+    recommended_module: "The Accumulation Engine (Pay-yourself-first rule, milestone tracking, fighting impulse spending)"
+    lesson_file: null  # update when lesson is loaded
+
+  MW11:
+    goal_title: "Become a Smart Shopper"
+    life_stage: "8–10 — Young Learner"
+    sub_domain: Spending
+    recommended_module: "Consumer Detective: Value & Quality (Durability, marketing tricks, online reviews, buyer's remorse)"
+    lesson_file: null  # update when lesson is loaded
+
+  MW12:
+    goal_title: "Discover Skills That Can Create Value"
+    life_stage: "8–10 — Young Learner"
+    sub_domain: Earning Power
+    recommended_module: "Skills to Value Conversion (Turning strengths into helper services, reliable delivery, client trust)"
+    lesson_file: null  # update when lesson is loaded
+
+  MW13:
+    goal_title: "Complete a Small Business Project"
+    life_stage: "8–10 — Young Learner"
+    sub_domain: Entrepreneurship
+    recommended_module: "Junior Founder Playbook (COGS, pricing, ethical sales, profit margins, customer communication)"
+    lesson_file: null  # update when lesson is loaded
+
+  MW14:
+    goal_title: "Learn Basic Budgeting"
+    life_stage: "8–10 — Young Learner"
+    sub_domain: Financial Discipline
+    recommended_module: "Envelope Budgeting & Variance (Give/Save/Spend buckets, expense tracking, staying within caps)"
+    lesson_file: null  # update when lesson is loaded
+
+  MW15:
+    goal_title: "Learn to Plan Affordable Experiences"
+    life_stage: "8–10 — Young Learner"
+    sub_domain: Lifestyle & Experiences
+    recommended_module: "Smart Outing Architect (Cost research, community discounts, packing ahead, value-per-hour)"
+    lesson_file: null  # update when lesson is loaded
+
+  MW16:
+    goal_title: "Develop Respect for Money & Property"
+    life_stage: "8–10 — Young Learner"
+    sub_domain: Financial Responsibility
+    recommended_module: "Stewardship & Asset Care (Utility conservation, community property, repair vs waste, asset lifetime)"
+    lesson_file: null  # update when lesson is loaded
+
+  MW17:
+    goal_title: "Become Financially Literate"
+    life_stage: "11–13 — Early Teen"
+    sub_domain: Financial Literacy
+    recommended_module: "Banking, Interest & Inflation (Simple vs compound interest, inflation erosion, banking fees, digital safety)"
+    lesson_file: null  # update when lesson is loaded
+
+  MW18:
+    goal_title: "Build a Personal Saving System"
+    life_stage: "11–13 — Early Teen"
+    sub_domain: Saving
+    recommended_module: "Sinking Funds & Automation (Emergency cushions, goal-based sinking funds, defeating lifestyle creep)"
+    lesson_file: null  # update when lesson is loaded
+
+  MW19:
+    goal_title: "Develop Smart Spending Habits"
+    life_stage: "11–13 — Early Teen"
+    sub_domain: Spending
+    recommended_module: "Marketing Manipulation & FOMO (Targeted ads, peer pressure, total cost of ownership, the 30-day delay)"
+    lesson_file: null  # update when lesson is loaded
+
+  MW20:
+    goal_title: "Develop Skills That Increase Future Earning Power"
+    life_stage: "11–13 — Early Teen"
+    sub_domain: Earning Power
+    recommended_module: "High-Value Digital & Technical Skills (Scalable tech, digital design/code, problem decomposition, portfolios)"
+    lesson_file: null  # update when lesson is loaded
+
+  MW21:
+    goal_title: "Run a Small Entrepreneurial Project"
+    life_stage: "11–13 — Early Teen"
+    sub_domain: Entrepreneurship
+    recommended_module: "Lean Teen Startup (MVP creation, unit economics, pricing models, ethical sales, reinvestment)"
+    lesson_file: null  # update when lesson is loaded
+
+  MW22:
+    goal_title: "Learn Personal Budget Management"
+    life_stage: "11–13 — Early Teen"
+    sub_domain: Budgeting
+    recommended_module: "Zero-Based & 50/30/20 Systems (Fixed vs variable expenses, category allocations, variance forensics)"
+    lesson_file: null  # update when lesson is loaded
+
+  MW23:
+    goal_title: "Understand How Wealth Grows"
+    life_stage: "11–13 — Early Teen"
+    sub_domain: Investing
+    recommended_module: "The Compounding Engine & Asset Classes (Stocks, ETFs, bonds, Rule of 72, time horizons, risk vs return)"
+    lesson_file: null  # update when lesson is loaded
+
+  MW24:
+    goal_title: "Learn to Balance Spending & Experiences"
+    life_stage: "11–13 — Early Teen"
+    sub_domain: Lifestyle & Experiences
+    recommended_module: "Intentional Living & Opportunity Cost (Cost-per-memory, group event budgeting, resisting social comparison)"
+    lesson_file: null  # update when lesson is loaded
+
+  MW25:
+    goal_title: "Master Practical Personal Finance"
+    life_stage: "14–16 — Developing Teen"
+    sub_domain: Financial Literacy
+    recommended_module: "Applied Personal Finance (Checking/debit cards, banking apps, compounding, paystubs & taxes basics)"
+    lesson_file: null  # update when lesson is loaded
+
+  MW26:
+    goal_title: "Build Strong Financial Discipline"
+    life_stage: "14–16 — Developing Teen"
+    sub_domain: Saving
+    recommended_module: "Targeted Sinking Funds & Savings Velocity (Automating transfers, multi-tier savings targets, managing lifestyle creep)"
+    lesson_file: null  # update when lesson is loaded
+
+  MW27:
+    goal_title: "Explore High-Potential Career Paths"
+    life_stage: "14–16 — Developing Teen"
+    sub_domain: Career & Profession
+    recommended_module: "Career Exploration & Skill Mapping (High-growth industries, educational paths, salaries, mentorship, market demand)"
+    lesson_file: null  # update when lesson is loaded
+
+  MW28:
+    goal_title: "Build Job-Ready Skills"
+    life_stage: "14–16 — Developing Teen"
+    sub_domain: Earning Power
+    recommended_module: "Skill Monetization & Digital Leverage (High-leverage skills: coding, writing, video editing, public speaking, digital tools)"
+    lesson_file: null  # update when lesson is loaded
+
+  MW29:
+    goal_title: "Build & Test a Small Business Idea"
+    life_stage: "14–16 — Developing Teen"
+    sub_domain: Entrepreneurship
+    recommended_module: "Lean Validation & MVP Testing (Problem identification, customer interviews, prototyping, pricing models, ethical sales)"
+    lesson_file: null  # update when lesson is loaded
+
+  MW30:
+    goal_title: "Learn Long-Term Investing Principles"
+    life_stage: "14–16 — Developing Teen"
+    sub_domain: Investing
+    recommended_module: "Asset Allocation & Long-Term Compounding (Index funds, ETFs, broad asset classes, dollar-cost averaging, market cycles)"
+    lesson_file: null  # update when lesson is loaded
+
+  MW31:
+    goal_title: "Learn to Evaluate Financial Choices"
+    life_stage: "14–16 — Developing Teen"
+    sub_domain: Financial Decision Making
+    recommended_module: "Rational Decision Making & Opportunity Cost (Opportunity cost calculations, total cost of ownership, emotional spending)"
+    lesson_file: null  # update when lesson is loaded
+
+  MW32:
+    goal_title: "Plan Lifestyle Within a Budget"
+    life_stage: "14–16 — Developing Teen"
+    sub_domain: Lifestyle & Experiences
+    recommended_module: "Lifestyle Design & Social Cost Management (Peer spending pressure, cost-per-hour recreation, intentional lifestyle budgeting)"
+    lesson_file: null  # update when lesson is loaded
+
+  MW33:
+    goal_title: "Choose a Strong Career Direction"
+    life_stage: "17–18 — Transition to Adulthood"
+    sub_domain: Career & Profession
+    recommended_module: "Strategic Career Mapping & Market Alignment (Vocational & degree pathways, higher ed ROI, networking)"
+    lesson_file: null  # update when lesson is loaded
+
+  MW34:
+    goal_title: "Build a Job-Ready Skill"
+    life_stage: "17–18 — Transition to Adulthood"
+    sub_domain: Earning Power
+    recommended_module: "Professional Execution & Industry Certifications (Industry tools, client communication, technical certificates, portfolio)"
+    lesson_file: null  # update when lesson is loaded
+
+  MW35:
+    goal_title: "Become Financially Independent in Financial Knowledge"
+    life_stage: "17–18 — Transition to Adulthood"
+    sub_domain: Financial Literacy
+    recommended_module: "Adult Financial Infrastructure (Filing income tax returns, credit scores & bureaus, insurance fundamentals, bank loan structures)"
+    lesson_file: null  # update when lesson is loaded
+
+  MW36:
+    goal_title: "Build Personal Financial Discipline"
+    life_stage: "17–18 — Transition to Adulthood"
+    sub_domain: Saving
+    recommended_module: "Living Below Your Means & Cash Flow Control (50/30/20 budget framework, automated transfers, eliminating impulse buying)"
+    lesson_file: null  # update when lesson is loaded
+
+  MW37:
+    goal_title: "Build an Investment Foundation"
+    life_stage: "17–18 — Transition to Adulthood"
+    sub_domain: Investing
+    recommended_module: "Bogleheads & Index Investing Fundamentals (Broad-market index ETFs, Roth IRAs/tax-advantaged accounts, market cycles)"
+    lesson_file: null  # update when lesson is loaded
+
+  MW38:
+    goal_title: "Develop Entrepreneurial Capability"
+    life_stage: "17–18 — Transition to Adulthood"
+    sub_domain: Entrepreneurship
+    recommended_module: "Micro-Business Launch & Unit Economics (Customer acquisition channels, value propositions, profit margins, operational funnels)"
+    lesson_file: null  # update when lesson is loaded
+
+  MW39:
+    goal_title: "Make Responsible Major Financial Decisions"
+    life_stage: "17–18 — Transition to Adulthood"
+    sub_domain: Financial Decision Making
+    recommended_module: "High-Stakes Decision Frameworks (Student loan debt evaluation, vehicle purchase vs transit, lease contracts, expected value)"
+    lesson_file: null  # update when lesson is loaded
+
+  MW40:
+    goal_title: "Learn to Fund Experiences Responsibly"
+    life_stage: "17–18 — Transition to Adulthood"
+    sub_domain: Lifestyle & Experiences
+    recommended_module: "Intentional Travel & Social Balance (Budget backpacking, group coordination, avoiding debt-fueled status spending)"
+    lesson_file: null  # update when lesson is loaded
+
+  MW41:
+    goal_title: "Build a Strong Career Foundation"
+    life_stage: "19–22 — Emerging Adult"
+    sub_domain: Career & Profession
+    recommended_module: "Corporate Navigation & Professional Capital (Internship conversion, performance reviews, building human capital, mentorship)"
+    lesson_file: null  # update when lesson is loaded
+
+  MW42:
+    goal_title: "Increase Earning Capacity"
+    life_stage: "19–22 — Emerging Adult"
+    sub_domain: Earning Power
+    recommended_module: "Compensation Negotiation & Income Stacking (Market salary research, performance raises, freelancing, consulting, skill arbitrage)"
+    lesson_file: null  # update when lesson is loaded
+
+  MW43:
+    goal_title: "Master Adult Personal Finance"
+    life_stage: "19–22 — Emerging Adult"
+    sub_domain: Financial Literacy
+    recommended_module: "Advanced Personal Financial Management (Tax brackets & deductions, employee benefits & 401k match, health insurance, credit optimization)"
+    lesson_file: null  # update when lesson is loaded
+
+  MW44:
+    goal_title: "Build an Emergency Fund"
+    life_stage: "19–22 — Emerging Adult"
+    sub_domain: Saving
+    recommended_module: "Emergency Reserves & Liquid Capital Preservation (3-to-6 month expense buffer, High-Yield Savings Accounts, capital preservation)"
+    lesson_file: null  # update when lesson is loaded
+
+  MW45:
+    goal_title: "Start Long-Term Wealth Creation"
+    life_stage: "19–22 — Emerging Adult"
+    sub_domain: Investing
+    recommended_module: "Systematic Investing & Modern Portfolio Theory (Tax-advantaged compounding (Roth IRA, 401k), low-cost index ETFs, Dollar-Cost Averaging)"
+    lesson_file: null  # update when lesson is loaded
+
+  MW46:
+    goal_title: "Test Entrepreneurial Potential"
+    life_stage: "19–22 — Emerging Adult"
+    sub_domain: Entrepreneurship
+    recommended_module: "Scalable Ventures & Product-Market Fit (Validation sprints, MVP launch, B2B/B2C models, acquisition funnels, unit economics)"
+    lesson_file: null  # update when lesson is loaded
+
+  MW47:
+    goal_title: "Build a Healthy Financial Balance Sheet"
+    life_stage: "19–22 — Emerging Adult"
+    sub_domain: Debt & Assets
+    recommended_module: "Debt Elimination & Net Worth Acceleration (Debt avalanche vs snowball, avoiding toxic debt, net worth tracking, asset-to-liability ratios)"
+    lesson_file: null  # update when lesson is loaded
+
