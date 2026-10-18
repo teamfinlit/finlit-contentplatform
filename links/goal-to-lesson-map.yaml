@@ -162,7 +162,7 @@ mappings:
     life_stage: "11–13 — Early Teen"
     sub_domain: Investing
     recommended_module: "The Compounding Engine & Asset Classes (Stocks, ETFs, bonds, Rule of 72, time horizons, risk vs return)"
-    lesson_file: null  # update when lesson is loaded
+    lesson_file: "learning/level-5-6-investing-basics/ch01-why-investing-matters/L01_compounding-power.md"
 
   MW24:
     goal_title: "Learn to Balance Spending & Experiences"
@@ -211,7 +211,7 @@ mappings:
     life_stage: "14–16 — Developing Teen"
     sub_domain: Investing
     recommended_module: "Asset Allocation & Long-Term Compounding (Index funds, ETFs, broad asset classes, dollar-cost averaging, market cycles)"
-    lesson_file: null  # update when lesson is loaded
+    lesson_file: "learning/level-5-6-investing-basics/ch01-why-investing-matters/L01_compounding-power.md"
 
   MW31:
     goal_title: "Learn to Evaluate Financial Choices"
